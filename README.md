@@ -1,6 +1,6 @@
 # CodeWars Solutions Repository
 
-![CodeWars Badge](https://www.codewars.com/users/chrystalio/badges/small)
+[![Profile badge](https://www.codewars.com/users/chrystalio/badges/large)](https://www.codewars.com/users/chrystalio)
 
 This repository contains my solutions to various CodeWars challenges that I have completed. CodeWars is a platform that offers coding challenges (kata) of varying difficulty levels, allowing developers to improve their problem-solving and coding skills.
 
