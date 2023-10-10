@@ -23,3 +23,11 @@ function basicOp(operation, value1, value2) {
 
     return result;
 }
+
+/* Explained Solution 
+
+On this test, i checked the operation value using ternary operations.
+If operations equals '+' then it's returns value1 + value2 
+and so goes on.
+
+*/
