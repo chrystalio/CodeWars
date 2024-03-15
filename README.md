@@ -34,4 +34,4 @@ Please ensure that your contributions adhere to the CodeWars community guideline
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, you can reach me via email at chrystalio.k@outlook.com or find me on CodeWars under the username Chrystalio.
+If you have any questions, suggestions, or just want to connect, you can reach me via email at chrystalio.k@outlook.com or find me on CodeWars under the username [Chrystalio](https://www.codewars.com/users/chrystalio).
